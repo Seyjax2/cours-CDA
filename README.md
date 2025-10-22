@@ -13,5 +13,6 @@ README.md -> Fichier de documentation
 
 dans un terminal bash : 
 
- git clone https://github.com/Seyjax2/cours-CDA.git
-   cd cours-CDA
+git clone https://github.com/Seyjax2/cours-CDA.git
+
+cd cours-CDA
